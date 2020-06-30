@@ -1,0 +1,6 @@
+alert('hi')
+alert('hi 1')
+alert('hi 2')
+alert('hi 3')
+alert('hi 4')
+alert('hi 5')
